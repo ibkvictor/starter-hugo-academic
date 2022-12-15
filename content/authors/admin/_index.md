@@ -39,4 +39,4 @@ email: victor.ezekiel@stu.cu.edu.ng
 superuser: true
 highlight_name: true
 ---
-Victor Ezekiel is a Graduate Researcher at the Energy and Environment Research Group under the supervision of [Prof. Olayinka Ohunakin](https://africa.berkeley.edu/people/olayinka-s-ohunakin). He also works as a Controls and Autonomy Engineer at the Hebron Motorsports (Formula Student) team, which he previously served as Team Lead. His research interest include Learning based Control for Dynamical System, Optimization of Energy Systems, and Safe with Reinforcement learning(RL) and Multi-RL.
+Victor Ezekiel is a Graduate Researcher at the Energy and Environment Research Group under the supervision of [Prof. Olayinka Ohunakin](https://africa.berkeley.edu/people/olayinka-s-ohunakin). He also works as a Controls and Autonomy Engineer at the [Hebron Motorsports](https://linkedin.com/in/formulastudent) (Formula Student) team, which he previously served as Team Lead. His research interest include Learning based Control for Dynamical System, Optimization of Energy Systems, and Safe with Reinforcement learning(RL) and Multi-RL.
