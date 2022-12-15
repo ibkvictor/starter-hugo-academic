@@ -25,29 +25,45 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2016-05-01"
+  description: "Recieved for obtaining the highest mark in Physics in the Cambridge IGCSE"
+  organization: Cambridge Assessment International Education | British Council
+  organization_url: http://www.britishcouncil.org/
+  title: Cambridge Advanced Learner's Award
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  description: Represented Nigeria at the ACPC (West Africa) Contest in Benin Republic, Third Place.
+  organization: ACPC | ICPC
+  organization_url: http://acpc.global/
+  title: Third Place in the African Collegiate Programming Contest (West Africa)
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: https://2020.spaceappschallenge.org/challenges/inform/automated-detection-hazards/teams/project-llocust-1/project
+  date_end: ""
+  date_start: "2021-2-01"
+  description: "Developed a system to forecast Locust Infestation using machine learning and satellite data, Impact Award over 2,302 submitted projects"
+  organization: NASA
+  organization_url: https://www.spaceappschallenge.org/
+  title: 'Impact Award'
+  url: "https://2020.spaceappschallenge.org/challenges/inform/automated-detection-hazards/teams/project-llocust-1/project"
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: ""
-  organization: DataCamp
+  organization: David Oyedepo Foundation | Covenant University
   organization_url: https://www.datacamp.com
   title: 'Object-Oriented Programming in R'
   url: ""
+- certificate_url: https://www.datacamp.com
+  date_end: ""
+  date_start: "2021-11-01"
+  description: "Maintained First-Class Honors throughout Bachelor's Programme, Top 10 in class"
+  organization: College of Engineering | Covenant University
+  organization_url: https://www.covenantuniversity.edu.ng
+  title: 'First Class Honors Award'
+  url: ""
 
 design:
-  columns: '2' 
+  columns: '2'
 ---
