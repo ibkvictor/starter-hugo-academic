@@ -37,7 +37,7 @@ item:
   description: Represented Nigeria at the ACPC (West Africa) Contest in Benin Republic, Third Place.
   organization: ACPC | ICPC
   organization_url: http://acpc.global/
-  title: Third Place in the African Collegiate Programming Contest (West Africa)
+  title: Third Place in the West Africa | African Collegiate Programming Contest
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://2020.spaceappschallenge.org/challenges/inform/automated-detection-hazards/teams/project-llocust-1/project
   date_end: ""
