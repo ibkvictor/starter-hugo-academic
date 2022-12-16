@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Researcher
+    company: " Robotics and Control | Energy and Environment Research Group"
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: cu-logo
+    location: Nigeria
+    date_start: '2022-02-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -35,14 +35,23 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+
+  - title: Control and Autonomy Engineer
+    company: Hebron Motorsports
     company_url: ''
-    company_logo: org-x
+    company_logo: hebron_motorsports
+    location: Nigeria
+    date_start: '2021-05-01'
+    date_end: '2022-05-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+        
+  - title: Facilities Engineer
+    company: Chevron Nigeria
+    company_url: ''
+    company_logo: Chevron_Logo
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2020-03-01'
+    date_end: '2020-08-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:

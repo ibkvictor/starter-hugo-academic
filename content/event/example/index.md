@@ -1,24 +1,25 @@
 ---
-title: Example Talk
+title: "ICESW 2022: Analysis of the morphological and mechanical characterization of aluminium matrix composite reinforced with chitosan"
 
-event: Wowchemy Conference
+event:  International Conference On Engineering For a Sustainable World (ICESW) 2022
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Center for Research Innovation and Development, CU
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: ''
+  city: ''
+  region: ''
+  postcode: ''
+  country: Nigeria
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Analysis of the morphological and mechanical characterization of aluminium matrix composite reinforced with chitosan
+abstract: "Recent studies acknowledge that conventional ceramic particulate could be replaced by several agricultural by-products in the development of aluminium matrix composites because of its selection for their low cost and relative ubiquity. This study explores the development of aluminium matrix composite from AA6061 alloy reinforced with chitosan particulates at weight proportions (3, 6, 9, and 12wt.%). The study further characterises the developed composites using Scanning Electron Microscopy (SEM), Energy Dispersive Spectroscopy (EDS), X-ray Diffractometer (XRD), hardness, tensile and thermal and electrical conductivity test techniques. Results indicated that increasing chitosan content up to 10 wt. % enhanced the hardness performance, while tensile strength of the composites increased sporadically, as SEM images observed reinforcement links embedded in grain boundaries. However, the thermal and electrical conductivity diminished due to the addition of chitosan particulates to the alloy matrix. The overall study showed the great potential of chitosan polymer as reinforcement to aluminium alloy.
+"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-11-26T13:00:00Z'
+date_end: '2022-11-28T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -35,13 +36,13 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Code
+  url: https://github.com/ibkvictor/materials
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_pdf: "content/slides/victor_paper_submission.pdf"
+url_slides: "content/slides/example/victor_present_better.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
