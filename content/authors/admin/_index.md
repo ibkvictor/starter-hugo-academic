@@ -31,7 +31,7 @@ organizations:
     url: https://www.covenantuniversity.edu.ng/
 education:
   courses:
-    - course: BEng in Mechanical Engineering (Robotics and Mechatronics)
+    - course: "BEng in Mechanical Engineering (Robotics)"
       institution: Covenant University
       year: 2021
     - course: High School Diploma

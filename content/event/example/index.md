@@ -41,8 +41,8 @@ links:
   name: Code
   url: https://github.com/ibkvictor/materials
 url_code: ""
-url_pdf: "content/slides/victor_paper_submission.pdf"
-url_slides: "content/slides/example/victor_present_better.pdf"
+url_pdf: "slides/example/victor_paper_submission.pdf"
+url_slides: "slides/example/victor_present_better.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
@@ -50,7 +50,8 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

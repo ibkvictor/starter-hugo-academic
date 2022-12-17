@@ -17,11 +17,11 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: "{C++, C, Python, Matlab, JavaScript}"
-  icon: python
-  icon_pack: fab
+  icon: file-code
+  icon_pack: fas
   name: Software Engineering
 - description: "{CAD, VHDL, PCB Design}"
-  icon: chart-line
+  icon: robot
   icon_pack: fas
   name: Hardware Design
 - description: "{Latex, Embeded System Design}"

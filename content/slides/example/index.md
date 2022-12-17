@@ -25,12 +25,7 @@ slides:
 
 ---
 
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+![SEM AA6061 + 3 wt % Chitosan](slides/example/slides/2-0.jpg)
 
 ---
 

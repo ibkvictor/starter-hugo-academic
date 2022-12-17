@@ -1,0 +1,1 @@
+![cv](cv/victo_cv.pdf)
