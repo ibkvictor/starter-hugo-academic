@@ -1,4 +1,47 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# Repository to my personal website: ![Victor Ezekiel](https://www.ibkvictor.netlify.app)
+
+## TODO
+- About
+ - [ ] Include better discription and increase font size.
+- Skills
+ - [ ] Modify skills to include the use of four icons rather than 3.
+- Experience
+ - [ ] Write proper 3 sentence descriptions in the experience section.
+- Awards
+  - [ ] Use appropriate logos for accomplishments and **check for copyrights**.
+  - [ ] Include 2 sentence description
+- Projects
+  - [ ] Submit projects to appropriate tags.
+- Posts
+  - [ ] Begin blogging on projects and other related areas:
+    - [ ] Autonomous Control
+    - [ ] Energy Systems
+    - [ ] Algorithms and Data Structures
+    - [ ] Other grad school topics
+    - [ ] Personal experience
+- Services
+  - [ ] Services section with `hero.md` template.
+    - [ ] Include photographs and short description of services.
+        - Drug Free
+            - [ ] One Blog with images of experience
+            - [ ] Mandate PDF
+        - Formula Student
+            - [ ] Blog for general experience
+            - [ ] Blog for Controls design 
+            - [ ] Blog for BSPD design
+                - [ ] Slides included
+            - [ ] link pdf of electric design
+            - [ ] Link code for controls and bspd design.
+        - Teaching
+            - [ ] Get picture of voluntary teaching experince.
+            - [ ] Write one blog on the experience.
+- Contacts
+ - [ ] Change contacts sections to icons similar to those in about section and remove email and location.
+
+*A fork of the following:*
+----
+
+## [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png)](https://wowchemy.com/hugo-themes/)
 
@@ -24,22 +67,22 @@ The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS make
 - 💡 [Suggest an improvement](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
 - ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
 
-## We ask you, humbly, to support this open source movement
+### We ask you, humbly, to support this open source movement
 
 Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
 
 We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+#### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
 
 <p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Wowchemy Website Builder"></a></p>
 
-## Demo image credits
+### Demo image credits
 
 - [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
 - [Course](https://unsplash.com/photos/JKUTrJ4vK00)
 
-## Latest news
+### Latest news
 <!--START_SECTION:news-->
 * [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
 * [What&#39;s new in v5.2?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;whats-new-in-v5.2&#x2F;)
