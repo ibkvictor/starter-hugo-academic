@@ -11,6 +11,26 @@ weight: 130
 title: Contact
 subtitle:
 
+social:
+  - icon: envelope-open-text
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/victorezekielib
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/ibkvictor
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/victorezekiel
+  - icon: cv
+    icon_pack: ai
+    link: 'uploads/cv.pdf'
+
 content:
   # Automatically link email and phone or display as text?
   autolink: true
@@ -22,7 +42,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
   email: victor.ezekiel@stu.cu.edu.ng

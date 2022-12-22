@@ -11,21 +11,24 @@ interests:
   - Robotics
   - Autonomous systems
 social:
-  - icon: envelope
+  - icon: envelope-open-text
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/victorezekielib
-  # - icon: graduation-cap
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/ibkvictor
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/victorezekiel
+  - icon: cv
+    icon_pack: ai
+    link: 'uploads/cv.pdf'
 organizations:
   - name: Covenant University
     url: https://www.covenantuniversity.edu.ng/

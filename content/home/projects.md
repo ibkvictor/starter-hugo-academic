@@ -27,9 +27,9 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Autonomous Systems
+  - name: Autonomous and Robotics Systems
     tag: Deep Learning
-  - name: Energy and Climate
+  - name: Energy and Environment
     tag: Demo
 
 design:
