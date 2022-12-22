@@ -29,7 +29,7 @@ item:
   description: "Recieved for obtaining the highest mark in Physics in the Cambridge IGCSE"
   organization: Cambridge Assessment International Education | British Council
   organization_url: http://www.britishcouncil.org/
-  title: Top of Nigeria in Physics | Outstanding Cambridge Learner Awards
+  title: Top in Nigeria in Physics | Outstanding Cambridge Learner Awards
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
@@ -43,8 +43,9 @@ item:
   date_end: ""
   date_start: "2021-02-01"
   description: "Developed a system to forecast Locust Infestation using machine learning and satellite data, Impact Award over 2,302 submitted projects"
-  organization: NASA
-  organization_url: https://www.spaceappschallenge.org/
+  organization: NASA | Space Apps
+  organization_url: ""
+  organization_url: ""
   title: 'Impact Award'
   url: "https://2020.spaceappschallenge.org/challenges/inform/automated-detection-hazards/teams/project-llocust-1/project"
 - certificate_url: https://www.datacamp.com

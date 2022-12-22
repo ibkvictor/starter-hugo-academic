@@ -8,7 +8,7 @@
 - Experience
  - [ ] Write proper 3 sentence descriptions in the experience section.
 - Awards
-  - [ ] Use appropriate logos for accomplishments and **check for copyrights**.
+  - [+] Use appropriate logos for accomplishments and **check for copyrights**.
   - [ ] Include 2 sentence description
 - Projects
   - [ ] Submit projects to appropriate tags.
