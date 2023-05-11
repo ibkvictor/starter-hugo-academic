@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Researcher
+  - title: Graduate Researcher | Machine Learning Research
     company: " Robotics and Control | Energy and Environment Research Group"
     company_url: ''
     company_logo: cu-logo
@@ -31,19 +31,23 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Preparation of grant proposal.
+        Design and implementation of novel statistical and neural network models.
+        Prepared spatio-temporal data for model training using xarray, numpy and pandas packages.
 
-  - title: Control and Autonomy Engineer
+  - title: Team Lead | Electronics, Control and Autonomy Engineer
     company: Hebron Motorsports
     company_url: ''
     company_logo: hebron_motorsports
     location: Nigeria
     date_start: '2021-05-01'
     date_end: '2022-05-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        Managed a team of 25 engineers.
+        Prepared business proposals and design reports for the Formula Student competition.
+        Increased the of female engineers by 16 % during team recruitment.
+        Gave talks and training sessions to High school seniors and college freshers on the design of racing vehicle.
         
   - title: Facilities Engineer
     company: Chevron Nigeria
@@ -52,7 +56,11 @@ experience:
     location: California
     date_start: '2020-03-01'
     date_end: '2020-08-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        Prepared CAD and process flow diagrams for project documentation.
+        Co-supervised testing and maintenance of boilers and other equipment.
+        Worked with a team of experienced engineers on a capital-intensive project , Produced Water Disposal.
 
 design:
   columns: '2'
