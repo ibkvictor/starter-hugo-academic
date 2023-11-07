@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Experience
 subtitle:
@@ -63,5 +63,5 @@ experience:
         Worked with a team of experienced engineers on a capital-intensive project , Produced Water Disposal.
 
 design:
-  columns: '2'
+  columns: '1'
 ---

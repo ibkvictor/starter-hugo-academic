@@ -4,21 +4,22 @@
 - About
  - [ ] Include better discription and increase font size.
 - Skills
- - [ ] Modify skills to include the use of four icons rather than 3.
+ - [ ] Move to the bottom.
 - Experience
  - [ ] Write proper 3 sentence descriptions in the experience section.
+ - [ ] Research Experience as description the projects using the STAR or abstract approach.
 - Awards
-  - [+] Use appropriate logos for accomplishments and **check for copyrights**.
-  - [ ] Include 2 sentence description
+  - [+] Use appropriate logos for accomplishments and **check for copyrights** limit them to only a few and place them at the bottom.
 - Projects
-  - [ ] Submit projects to appropriate tags.
+  - [ ] Interpretable learning and planning (generative modeling).
+  - [ ] Rare events and generative learning or planning
+  - [ ] Extreme events and learning algorithms for use in construction code and wind engineering code. Spatial extremes.
 - Posts
   - [ ] Begin blogging on projects and other related areas:
-    - [ ] Autonomous Control
-    - [ ] Energy Systems
-    - [ ] Algorithms and Data Structures
-    - [ ] Other grad school topics
-    - [ ] Personal experience
+    - [ ] Control and Machine Learning
+    - [ ] Risk analysis and extreme value theory
+    - [ ] Graph structures as important data structures
+    - [ ] Scriptural : Excellence and the will of God
 - Services
   - [ ] Services section with `hero.md` template.
     - [ ] Include photographs and short description of services.

@@ -1,15 +1,12 @@
 ---
 title: Victor Ezekiel
-role: Autonomous and Energy Systems Research
+role: Research Engineer | Software and Machine Learning | Software Engineer @ fill-in
 avatar_filename: victor_profile_pic.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio:
 interests:
-  - Learning based control
-  - Safe reinforcement learning
-  - Intelligent energy systems
-  - Robotics
-  - Autonomous systems
+  - Robust and interpretable learning for control
+  - Generative learning and planning for control
+  - Learning extremal and rare event statistics
 social:
   - icon: envelope-open-text
     icon_pack: fas
@@ -29,11 +26,17 @@ social:
   - icon: cv
     icon_pack: ai
     link: 'uploads/cv.pdf'
+  - icon: youtube-play
+    icon_pack: fab
+    link: https://www.youtube.com/victorezekiel
 organizations:
   - name: Covenant University
     url: https://www.covenantuniversity.edu.ng/
 education:
   courses:
+    - course: National Service Year - Teaching and Research
+      institution: National Youth Service Corps
+      year: 2022
     - course: "BEng in Mechanical Engineering (Robotics)"
       institution: Covenant University
       year: 2021
@@ -44,7 +47,9 @@ email: victor.ezekiel@stu.cu.edu.ng
 superuser: true
 highlight_name: true
 ---
-Victor Ezekiel is a Graduate Researcher at the Energy and Environment Research Group under the supervision of [Prof. Olayinka Ohunakin](https://africa.berkeley.edu/people/olayinka-s-ohunakin). He also works as a Controls and Autonomy Engineer at the [Hebron Motorsports](https://linkedin.com/in/formulastudent) (Formula Student) team, which he previously served as Team Lead. His research interest include **Learning based Control for Dynamical System**, **Optimization of Energy Systems**, and **Safe with Reinforcement learning(RL) and Multi-RL**.
+I am a Research Engineer at the Energy and Environment Research | Research and Developement Institute (CuCRID), Ota. I work on learning extreme and rare events using copula and max-stable assumptions. My research of wind atlas and spatial extreme toolkit for wind and structural engineers. I am fortunate to be supervised by [Prof. Olayinka Ohunakin](https://africa.berkeley.edu/people/olayinka-s-ohunakin) and ( supervised by ). 
+
+I am also interested in Generative learning for control and statistical robustness of learning and control algorithms. As such, I work on with of the . I have previously served as Controls and Electronics Engineer / Team manager at the [Hebron Motorsports](https://linkedin.com/in/formulastudent) (Formula Student) team.
 <!-- 
 Dr. Nagy is an assistant professor in the Department of Civil, Architectural, and Environmental Engineering at The University of Texas at Austin, directing the Intelligent Environments Laboratory since 2016. A roboticist turned building engineer, his research interests are in smart buildings and cities, renewable energy systems, control systems for zero emission building operation, and the application of machine learning and artificial intelligence for the built environment for a sustainable energy transition. He has received the Outstanding Researcher Award from IBPSA-USA in 2022, several Best Paper awards from the CISBAT conference, Building & Environment journal, as well as a Highest Cited Paper award from Applied Energy. He organized and chaired the first workshop on Reinforcement Learning for energy management in buildings and cities (RLEM’20) at ACM BuildSys’20.
 
